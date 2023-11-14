@@ -106,4 +106,4 @@ You can integrate this backend with a frontend application built with React. Upd
 - **validator:** Library for string validation.
 
 ## License
-
+This project is licensed under the MIT License - see the LICENSE file for details.
