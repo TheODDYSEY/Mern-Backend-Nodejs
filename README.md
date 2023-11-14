@@ -1,4 +1,4 @@
-Certainly! Here's a detailed README for your Node.js MongoDB project:
+
 
 # MERN Authentication Backend
 
@@ -107,6 +107,3 @@ You can integrate this backend with a frontend application built with React. Upd
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this README according to your project's specific details.
